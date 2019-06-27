@@ -1,0 +1,2 @@
+# class-dump
+PublicTest
